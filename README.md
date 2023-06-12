@@ -3,7 +3,8 @@
            
            
 # İLETİŞİM
-- `umutmestoglu@hotmail.com`
+-Bir sorunla karşılaşmanız durumunda iletişim adresim:
+  - `umutmestoglu@hotmail.com`
 
 
 # LARAVEL KURULUMU
@@ -54,6 +55,7 @@ Benim projemde hali hazırda bulunan migrationlar var, bunların hepsini toplu o
 - Proje dizinine gidin ve terminalde __composer install__  ve __php artisan vendor:publish__ komutlarını çalıştırın.
 - key tanımlamak için __php artisan key:generate__ komutunu kullanın.
 - Projenin ana dizininde .env.example dosyasını kopyalayarak .env adında bir dosya oluşturun.
+- .env dosyasında **DB_DATABASE=secondhand** kısmının doğru olduğundan ve uygulama anahtarının oluştuğundan emin olun.
 - Bunu yapmak için şu komutu kullanabilirsiniz= ``` cp .env.example .env ```
 - Dosyadaki veritabanı adını ve .env kimlik bilgilerini güncelleyin.
 - Terminale, __php artisan migrate --seed__ komutunu yazarak migration ile tablo seeder ile de verileri oluşturabilirsiniz.
