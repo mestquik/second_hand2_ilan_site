@@ -47,7 +47,7 @@ Bir veritabanı oluşturmak ve bağlanmak için ilk önce [https://www.apachefri
                 ```
                 kodunu kullanarak 'users' adında bir tablo oluşturabilir, farklı sütunlar belirleyebilir ve özelliklerini belirtebiliriz.
 		    
-Benim projemde hali hazırda bulunan migrationlar var, bunların hepsini toplu olarak çalıştırmak istersek terminale __php artisan migration__ yazarak bütün migrationları veritabanındaki tablomuza uygulayabiliriz.
+Benim projemde hali hazırda bulunan migrationlar var, bunların hepsini toplu olarak çalıştırmak istersek terminale __php artisan migrate:fresh --seed__ yazarak bütün migrationları veritabanındaki tablomuza uygulayabiliriz.
 
 # PROJENİN KURULUMU 
 ### Kurulum
