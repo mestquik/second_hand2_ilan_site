@@ -1,6 +1,9 @@
 `kayıtlı e-mail = admin@hotmail.com
            , şifre = password`
-
+           
+           
+# İLETİŞİM
+- `umutmestoglu@hotmail.com`
 
 
 # LARAVEL KURULUMU
