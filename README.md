@@ -1,6 +1,6 @@
-`kayıtlı e-mail = admin@hotmail.com
+`Sisteme kayıtlı olan e-mail = admin@hotmail.com
            , şifre = password`
-           
+           bu hesapla panele bağlanabilirsiniz.
            
 # İLETİŞİM
 Bir sorunla karşılaşmanız durumunda iletişim adresim:
