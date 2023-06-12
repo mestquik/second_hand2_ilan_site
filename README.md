@@ -20,6 +20,7 @@ Bir veritabanı oluşturmak ve bağlanmak için ilk önce [https://www.apachefri
 - Bilgisayarınızı sanki sanal bir sunucuymuş gibi kullanmanıza olanak sağlar.
 - XAMPP kurulumunu yaptıktan sonra Apache ve MySQL kısımlarına start veriyoruz ve bilgisayarımız localhostta çalışmaya başlıyor.
 - Bir veritabanı oluşturmak istiyorsak MySQL kısmında yer alan Admin'e tıklayarak açılan PhpMyAdmin sitesinden kolaylıkla bir veritabanı oluşturabiliriz.
+- Oluşturacağımız veritabanının ismi projede de belirlediğim gibi __secondhand__ olmalıdır. Aksi takdirde sunucuya __bağlanamazsınız__.
 
     - Veritabanını Laravele bağlamak için bağlanmak istediğimiz veritabanının ismini, oluşturduğumuz Laravel projesinin ana dizininde bulunan .env dosyasında **"DB_DATABASE="** kısmına yazıyoruz.
 - Bu projede Veritabanının ismini **secondhand** olarak belirledim. Yani .env dosyasında bağlanma kodumuz **DB_DATABASE=secondhand**.
