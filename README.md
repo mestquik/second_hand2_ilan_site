@@ -1,4 +1,4 @@
-Sisteme kayıtlı olan hesap:
+Yönetim paneline bağlanmak için kullanabileceğiniz hesap:
 - ` e-mail = admin@hotmail.com `
 - ` şifre = password ` 
  
