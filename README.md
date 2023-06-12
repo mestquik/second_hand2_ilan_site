@@ -3,7 +3,7 @@
            
            
 # İLETİŞİM
-- Bir sorunla karşılaşmanız durumunda iletişim adresim:
+Bir sorunla karşılaşmanız durumunda iletişim adresim:
   - `umutmestoglu@hotmail.com`
 
 
