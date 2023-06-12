@@ -6,6 +6,12 @@
                 <span class="menu-title">Genel Bilgi</span>
             </a>
         </li>
+         <li class="nav-item">
+            <a class="nav-link" href="{{route('homepage')}}">
+                <i class="icon-grid menu-icon"></i>
+                <span class="menu-title">Ön Yüze Git</span>
+            </a>
+        </li>
         <li class="nav-item">
             <a class="nav-link" data-toggle="collapse" href="#ui-basic" aria-expanded="false" aria-controls="ui-basic">
                 <i class="icon-layout menu-icon"></i>
