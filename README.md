@@ -1,7 +1,7 @@
 Sisteme kayıtlı olan hesap:
 - ` e-mail = admin@hotmail.com `
 - ` şifre = password ` 
- bu hesapla yönetici paneline bağlanabilirsiniz.
+ 
           
            
 # İLETİŞİM
