@@ -53,3 +53,4 @@ Benim projemde hali hazırda bulunan migrationlar var, bunların hepsini toplu o
 - Dosyadaki veritabanı adını ve .env kimlik bilgilerini güncelleyin.
 - Terminale, __php artisan migrate --seed__ komutunu yazarak migration ile tablo seeder ile de verileri oluşturabilirsiniz.
 - Projeyi çalıştırmaya hazırsınız! terminale __php artisan serve__ yazarak çalıştırabilirsiniz.
+- Hatalarla karşılaşılması durumunda terminalde __php artisan route:cache__ , __php artisan optimize__ , __php artisan cache:clear__ komutlarını kullanın.
